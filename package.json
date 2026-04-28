@@ -1,0 +1,21 @@
+{
+  "name": "merci",
+  "version": "1.0.0",
+  "description": "A small utility written in vanilla js to say thank you to your friends.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thelittlewonder/merci.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thelittlewonder/merci/issues"
+  },
+  "homepage": "https://github.com/thelittlewonder/merci#readme"
+}
